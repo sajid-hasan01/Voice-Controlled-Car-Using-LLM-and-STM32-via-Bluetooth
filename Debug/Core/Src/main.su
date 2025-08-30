@@ -1,0 +1,16 @@
+../Core/Src/main.c:88:6:Set_Motor_Speeds	16	static
+../Core/Src/main.c:94:6:Set_Motor_Direction	16	static
+../Core/Src/main.c:105:6:Stop_Motor	16	static
+../Core/Src/main.c:112:6:Stop_Motors	16	static
+../Core/Src/main.c:123:6:Move_Forward	16	static
+../Core/Src/main.c:140:6:Move_Backward	16	static
+../Core/Src/main.c:156:6:Turn_Left	8	static
+../Core/Src/main.c:194:6:Turn_Right	8	static
+../Core/Src/main.c:239:5:main	16	static
+../Core/Src/main.c:274:6:SystemClock_Config	72	static
+../Core/Src/main.c:314:13:MX_TIM3_Init	48	static
+../Core/Src/main.c:367:13:MX_TIM4_Init	48	static
+../Core/Src/main.c:420:13:MX_USART1_UART_Init	8	static
+../Core/Src/main.c:453:13:MX_GPIO_Init	40	static
+../Core/Src/main.c:491:6:HAL_UART_RxCpltCallback	16	static
+../Core/Src/main.c:541:6:Error_Handler	4	static,ignoring_inline_asm
